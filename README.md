@@ -1,1 +1,1 @@
-# Random-Forest
+# Random-Forest (regression and classification)
